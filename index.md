@@ -1,6 +1,6 @@
 ### Create a Puzzles
 
-`Parson Problems Solving` [`Click Here`](parsons_maker.html){:target="_blank"} 
+`Parson Problems Solving` [`Click Here`](parsons_maker.html){:target="_blank"}
 
 ### Solve the Puzzles
 
