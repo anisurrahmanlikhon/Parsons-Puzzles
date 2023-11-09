@@ -1,6 +1,4 @@
-### Create a Puzzles
-
-`Parsons Puzzles Problems Solving` [`Click Here`](https://parsons.problemsolving.io/){:target="_blank"}
+`Parsons Problems Solving Puzzles Maker ` [`Click Here`](https://parsons.problemsolving.io/){:target="_blank"}
 
 ### Solve the Puzzles
 
