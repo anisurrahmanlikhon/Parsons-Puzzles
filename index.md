@@ -3,18 +3,18 @@
 
 ### Solve the Puzzles
 
-1. `Solve the puzzle to add two numbers` [`Click Here`]()
+1. <b>`Solve the puzzle to add two numbers` [`Click Here`]() </b>
    
-2. `Solve the puzzle to ...............` [`Click Here`]()
+2. <b>`Solve the puzzle to ...............` [`Click Here`]()</b>
    
-3. `Solve the puzzle to ...............` [`Click Here`]()
+3. <b>`Solve the puzzle to ...............` [`Click Here`]()</b>
    
-4. `Solve the puzzle to ...............` [`Click Here`]()
+4. <b>`Solve the puzzle to ...............` [`Click Here`]()</b>
 
-5. `Solve the puzzle to ...............` [`Click Here`]()
+5. <b>`Solve the puzzle to ...............` [`Click Here`]()</b>
    
-6. `Solve the puzzle to ...............` [`Click Here`]()
+6. <b>`Solve the puzzle to ...............` [`Click Here`]()</b>
 
-7. `Solve the puzzle to ...............` [`Click Here`]()
+7. <b>`Solve the puzzle to ...............` [`Click Here`]()</b>
 
-8. `Solve the puzzle to ...............` [`Click Here`]()
+8. <b>`Solve the puzzle to ...............` [`Click Here`]()</b>
