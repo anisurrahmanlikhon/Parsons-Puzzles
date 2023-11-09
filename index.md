@@ -1,5 +1,5 @@
 
-`Parsons Problems Solving Puzzles Maker ` [`Click Here`](https://parsons.problemsolving.io/){:target="_blank"}
+<b>`Parsons Problems Solving Puzzles Maker ` [`Click Here`](https://parsons.problemsolving.io/){:target="_blank"}</b>
 
 ### Solve the Puzzles
 
