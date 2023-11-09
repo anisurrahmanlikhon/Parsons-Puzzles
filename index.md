@@ -1,5 +1,5 @@
-<img src="2.png"/>
-<img src="1.png"/>
+
+<center> <img src="1.png"/> </center>
 `Parsons Problems Solving Puzzles Maker ` [`Click Here`](https://parsons.problemsolving.io/){:target="_blank"}
 
 ### Solve the Puzzles
