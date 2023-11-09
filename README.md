@@ -16,5 +16,5 @@ Copy the URL, and use it as is or embed it as IFrame in your course. For example
           IFrame('<puzzle url>', width=1000, height=400)
         
 You can find here a Jupyter Notebook example (you should download and run it locally).
-If you plan to embed the Parson puzzle under an https website (for example, in a JupyterHub server), you should replace the domain of the puzzle URL. Instead of http://parsons.problemsolving.io, use https://parsons.herokuapp.com.
+If you plan to embed the Parson puzzle under an https website (for example, in a JupyterHub server), you should replace the domain of the puzzle URL. Instead of http://parsons.problemsolving.io
 So the URL of the previous example would be: https://parsons.herokuapp.com/puzzle/cbb39952d55a4be38f935c573a065f9f. 
