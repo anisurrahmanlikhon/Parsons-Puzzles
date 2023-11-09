@@ -1,5 +1,3 @@
-# Parsons Puzzles {:style="text-align:center;"}
-
 ### Create a Puzzles
 
 `Parson Problems Solving` [`Click Here`](create.html){:target="_blank"} 
