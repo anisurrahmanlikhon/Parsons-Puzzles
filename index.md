@@ -3,7 +3,7 @@
 
 ### Solve the Puzzles
 
-1. <b>`Solve the puzzle to add two numbers` [`Click Here`](https://parsons.problemsolving.io/puzzle/a74f2a4ff3a34e4eae340eb31bd25605){:target="_blank"} </b>
+1. <b>`Sovle the puzzle to print "Hello World"` [`Click Here`] (https://parsons.problemsolving.io/puzzle/4fdc6f83f1754ed6a4f1ed7b0e3ada0a){:target="_blank"} </b>
    
 2. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
    
