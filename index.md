@@ -1,5 +1,7 @@
 <img src="1.png"><br>
+<center>
 <b>`Parson Puzzles Maker`[`Click Here`](https://parsons.problemsolving.io/){:target="_blank"}</b>
+</center>
 
 ### Solve the Puzzles
 
