@@ -12,13 +12,3 @@
 4. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
 
 5. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
-   
-6. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
-
-7. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
-
-8. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
-
-9. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b>
-
-10. <b>`Solve the puzzle to ...............` [`Click Here`](){:target="_blank"}</b> 
