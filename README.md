@@ -1,4 +1,4 @@
-<img src="1.png>
+<img src="1.png">
 
 # Parsons-Puzzles
 Parsons programming puzzles are a type of scaffolded program construction tasks where the learner is given a set of code fragments, blocks of a single or multiple lines of code, and the task is to piece together a program from these. Learners not only select and order but also indent code fragments.
