@@ -6,7 +6,6 @@ Parsons programming puzzles are a type of scaffolded program construction tasks 
 ### Instructions
 Write the title and the code of a program in the following form. Use a #distractor comment at the end of the line to set it as a distractor line.
 Click on the Create Puzzle button to generate the puzzle. You will be redirected to the puzzle page.
+
 That is an example of a puzzle of the function find_max: http://parsons.problemsolving.io/puzzle/cbb39952d55a4be38f935c573a065f9f
 
-### Parsons Puzzle Maker
-http://parsons.problemsolving.io
