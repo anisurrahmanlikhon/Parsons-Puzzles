@@ -9,4 +9,4 @@
    
 3. <b>`Solve the puzzle to add two numbers from user` [`Click Here`](https://parsons.problemsolving.io/puzzle/2c1013d844fd44bf96c7489ad334da28){:target="_blank"}</b>
    
-4. <b>`Solve the puzzle to swap numbers using temporary variable` [`Click Here`](https://parsons.problemsolving.io/puzzle/5c9e1333b22a4aeaa900726a19a56355){:target="_blank"}</b>
+4. <b>`Solve the puzzle to swap numbers using temporary variable` [`Click Here`](https://parsons.problemsolving.io/puzzle/5c9e1333b22a4aeaa900726a19a56355){:target="_blank"}</b> 
